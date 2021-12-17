@@ -32,7 +32,7 @@
                 android:layout_gravity="center_vertical"
                 android:layout_marginLeft="150dp"
                 android:layout_marginTop="-90dp"
-                android:text="Dani Kurnia"
+                android:text="Angga Muhammad Yunus"
                 android:textColor="#fff"
                 android:textSize="20sp" />
 
